@@ -13,3 +13,6 @@ fifth bug fixed
 
 
 bug-fix
+pinkmode
+
+another fix mssge for purple mode 
